@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"List",
+				"listfuel"
+			],
+			[
+				"qoute",
+				"quoteid"
+			],
+			[
+				"fu",
+				"fuelquote"
+			],
+			[
+				"list",
+				"listfrontend"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"activepage"
+			],
+			[
+				"tota",
+				"totalpage"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"usernam",
+				"usernameErr"
+			],
+			[
+				"Age",
+				"AgeErr"
+			],
+			[
+				"pass",
+				"passErr"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"add",
+				"addressErr"
+			],
+			[
+				"pa",
+				"passErr"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"con",
+				"connguoi"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"email",
+				"emailErr"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"x",
+				"x1"
+			],
+			[
+				"si",
+				"size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"php artisan make:test BasicTest",
+			"artisan make:test"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuel/list.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuelquote/add.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuelquote/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuel/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/tests/Unit/LoginTest.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Controllers/UserController.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/routes/console.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Controllers/FuelquoteController.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/tests/Unit/RegisterTest.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/tests/Unit/FuelTest.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Controllers/FuelController.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/phpunit.xml",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuelquote/list.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/routes/web.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Fuelquote.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuel/listfuel.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/auth/register.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/tests/Feature/LoginTest.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/tests/Unit/ExampleTest.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/tests/Unit/BasicTest.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/backend/fuel/add.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/auth/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/index.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Middleware/Checkadmin.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Controllers/HomeController.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/home.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/layouts/app.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Kernel.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Fuel.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/routes/channels.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/.env",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/Http/Middleware/Authenticate.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/app/User.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/header.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel5801/resources/views/auth/login.blade.php",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel58/.env",
+		"/C/Program Files (x86)/Ampps/www/2020/Fuel58/vendor/autoload.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/index.php",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/catalog/view/theme/default/template/common/home.tpl",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/view/template/common/dashboard.tpl",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/view/template/common/header.tpl",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/controller/common/dashboard.php",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/controller/catalog/product.php",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/controller/catalog/category.php",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/config.php",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/config.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/user.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/user_delete.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/logout.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/user_add.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/install/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/user_edit.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/footer.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/helper/helper.php",
+		"/C/Program Files (x86)/Ampps/www/2020/oc01/admin/controller/module/latest.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoan/admin/menu.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/admin/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/install/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/admin/user.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/admin/user_add.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/admin/user_edit.php",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/guide",
+		"/C/Program Files (x86)/Ampps/www/2019/202001quanlytaikhoang/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/vdstatic/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/viduabstractclass/viduAbstract.php",
+		"/C/Program Files (x86)/Ampps/www/2019/vidu1/vd1.php",
+		"/C/Program Files (x86)/Ampps/www/2019/004uploadfile/ss.php",
+		"/C/Program Files (x86)/Ampps/www/2019/004uploadfile/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/003formvalid/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/002quanlythongtin/index.php",
+		"/C/Program Files (x86)/Ampps/www/2019/002quanlythongtin/thongtin.php",
+		"/C/Program Files (x86)/Ampps/www/2019/002quanlythongtin/login.php",
+		"/C/Program Files (x86)/Ampps/www/2019/002quanlythongtin/kiemtra.php",
+		"/C/Program Files (x86)/Ampps/www/2019/001heloworld/cform.php",
+		"/C/Program Files (x86)/Ampps/www/2019/001heloworld/form.php",
+		"/C/Program Files (x86)/Ampps/www/2019/001heloworld/thongtin.php",
+		"/C/Program Files (x86)/Ampps/www/2019/001heloworld/index.php",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/JAVASCRIPT/calculator.html",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/JAVASCRIPT/css/custom.css",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/JAVASCRIPT/custom.css",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/JAVASCRIPT/custom.js",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/JAVASCRIPT/INDEX.HTML",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/BOOSTRAP/index1.html",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/BOOSTRAP/index.html",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/VIDU/001.baitap01_zerotype/001.baitap01_zerotype/css/style1.css",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/VIDU/001.baitap01_zerotype/001.baitap01_zerotype/index1.html",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/BOOSTRAP/css/custom.css",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/BOOSTRAP/custom.css",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/VIDU/001.baitap01_zerotype/001.baitap01_zerotype/index.html",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/VIDU/VD-HTML/VD1.HTML",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/VIDU/001.baitap01_zerotype/001.baitap01_zerotype/css/style.css",
+		"/C/Users/andre/OneDrive/Desktop/BAI GIANG LAP TRINH WEB/VIDU/Thank you for downloading UltraViewer 6.2.0 - FileCroco.com.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Fuel.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"VIDU\\VD-HTML\\VD1.HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

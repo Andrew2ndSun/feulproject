@@ -1,0 +1,92 @@
+.navbar-inverse {
+	background-color: #003057;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #BFBFBF;
+}
+.navbar-brand {
+    font-size: 25px;
+   }
+
+img {
+  width: 100%;
+  im
+ 
+}
+a {
+    color: #A9BFE0;
+    text-decoration: none;
+}
+
+.jumbotron{
+	background-color: rgba(0,0,0,.25);
+	text-align: center;
+	text-decoration-color: gray;
+	line-height: 1em;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans Condensed';
+    font-weight: 500;
+    line-height: 1.1;
+    color: #55c6ec;
+}
+.bg-dark {
+    background-color: #003057;
+}
+.footer-1 .logo {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.container {
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+}
+.info {
+	text-align: center;
+}
+
+.signup{
+	padding-left: 35%;
+
+	text-align: left;
+	margin-top: 13%;
+	margin-bottom: 13%;
+}
+.h3, h3 {
+    font-size: 24px;
+    margin-left: 10%
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    margin-left: 10%
+    }
+
+
+body {
+color: #999;
+    text-decoration-color: color: #999;
+  background-image: url('img/backgr.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.title_home {
+    color: #ccc;
+}
+.sub {
+    padding-left: 45px;
+}
+.h3, h3 {
+    font-size: 24px;
+    margin-left: 0px;
+}
